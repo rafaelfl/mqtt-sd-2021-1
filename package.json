@@ -1,0 +1,10 @@
+{
+  "name": "mqtt-sd-2021-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rafael Fernandes Lopes",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^4.2.8"
+  }
+}
